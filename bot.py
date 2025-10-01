@@ -7,6 +7,7 @@ import sys
 import asyncio
 from collections import deque
 from datetime import datetime, timedelta, timezone
+from typing import Optional
 
 load_dotenv()
 
@@ -136,7 +137,7 @@ def detect_member_rank(member: discord.Member):
         guild.get_role(team_id) if team_id else None,
     )
 
-def detect_member_team_label(member: discord.Member) -> str | None:
+def detect_member_team_label(member: discord.Member) -> Optional[str]:
     """Return the team name label based on TEAM_ROLE_IDS if the member has one."""
     if not member:
         return None
