@@ -1,5 +1,17 @@
+# Environment variables
 .env
-.venv/
+
+# Python
 __pycache__/
 *.pyc
+.venv/
+venv/
+env/
+
+# Backups
 backups/
+
+# IDE
+.DS_Store
+.vscode/
+.idea/
