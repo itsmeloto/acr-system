@@ -1,0 +1,168 @@
+[2025-07-31 15:42:22] Lotex: @Testers 
+
+Please provide me your roblox usernames in tester chat in this format 
+“ @Lotex | [Discord Username] : [Roblox Username]
+[2025-07-31 15:43:00] Lotex: Then put the “ <:checked:1377660180535181475> “ mark when your done
+[2025-07-31 16:05:10] BlancGuy: @Testers 
+
+People that is not done with filling in the format, please send me your Discord Username and Roblox Username in my Direct Messages (DMs). Please include display name.
+[2025-08-31 20:13:43] Lotex: @Testers 
+
+Guys apparently we added the chain in roblox group for perms and all the in game stuff 
+
+
+So please if you still didn’t join the group, join it right now as soon as possible in order for me to give you the rank
+[2025-08-31 20:17:07] Lotex: After joining- ping me in tester chat so I will rank you
+[2025-08-31 21:33:53] Roland(I miss my wife): https://www.roblox.com/communities/35926361/Brazy-Studios#!/about
+[2025-08-31 21:34:30] Roland(I miss my wife): Group @Testers just in case some of you couldn’t find it
+-# apologies for the ping
+[2025-09-08 19:05:20] Lotex: We have 15 active Testers right now 
+
+
+We will be getting 15-20 more people
+[2025-09-08 19:40:01] Roland(I miss my wife): Make sure to join the group so you can be given tester
+[2025-09-08 19:40:06] Roland(I miss my wife): In the group
+[2025-09-08 19:47:17] Roland(I miss my wife): https://www.roblox.com/communities/35926361/Brazy-Studios#!/about
+[2025-09-09 11:07:59] Lotex: @Testers 
+
+For new testers around here - please make sure your in our group , that you can find either in Links channel on in above message 
+
+in order for you to get the Rank , afterwards ping me with your user in tester-chat if you still didn't get ranked
+[2025-09-09 11:09:39] Roland(I miss my wife): https://www.roblox.com/share/g/35926361
+[2025-09-09 11:09:54] Roland(I miss my wife): This is it btw
+[2025-09-09 14:28:02] Lotex: @Testers 
+
+Created the #︱🧪︱𝑡𝑒𝑠𝑡𝑒𝑟-reviews 
+
+Channel for the future updates and bug reports from yall 
+
+
+Use this channel ONLY for reviews of the testing results
+[2025-09-11 17:27:55] PL | Devs: @Testers
+
+> I’ve created the #︱🔊︱𝑇𝑒𝑠𝑡𝑖𝑛𝑔 voice channel.
+> This channel is dedicated to live testing sessions where we’ll gather feedback directly while features are being tried out.
+
+⚠️ **Use this channel only for participating in tests and sharing your immediate results during those sessions.**
+[2025-09-13 00:16:28] Roland(I miss my wife): @Testers GAME IS OPEN GO PLAY https://www.roblox.com/share?code=94d151a6ef71a74582034477284ccc61&type=ExperienceDetails&stamp=1757722428575
+[2025-09-13 00:16:45] Roland(I miss my wife): -# This was for game link btw
+[2025-09-13 00:16:55] Roland(I miss my wife): -# please forgive for ping
+[2025-09-13 02:01:12] Alx: @Testers also use tester reviews channel for bugs + please make a clip of the bug yall find + maybe an explanation aswell if its more complicated of that bug, kind of a rule you could say.
+[2025-09-13 02:04:07] ! Kingnoob: Explain it properly aswell so we know exactly what's wrong and can fix it, also please check the other reviews so multiple ppl don't send the same issue.
+[2025-09-13 02:58:11] PL | Devs: 📢 **Announcement – Tester Reviews Channel**
+
+> - The **Tester Reviews** channel is the *only place* where all **bug reports**, **error reports**, and **suggestions** must be submitted and discussed.  
+> - Any discussion or content related to these topics outside of this channel will be considered **misuse of channels**.  
+> - All reports and suggestions must also follow the **indicated format** when being submitted.  
+
+> Please make sure to use the correct channel at all times.  
+> Repeated misuse may result in *future actions being taken*.  
+
+**Thank you for your cooperation @Testers !**
+[2025-09-13 15:27:19] Roland(I miss my wife): Once again if you don’t see your name in #︱🧪︱𝑡𝑒𝑠𝑡𝑒𝑟-𝑡𝑒𝑎𝑚  please dm me 
+|| @Testers ||
+[2025-09-13 21:09:32] Alx: - Fixed lots of the known bugs yall reported this publish, might have missed some tho so let me know ( that includes the quick draws not working towards border achivement, it only works starting now tho )
+
+let us know if some of the new changes came with bugs aswell.
+[2025-09-13 21:10:30] Alx: - Battlepass also is now how it was supposed to be, fixed ( it was bugged before, way too easy to complete, its supposed to take a long time to complete )
+[2025-09-13 21:13:20] Alx: - infinite tower rewards should now drop and be fixed aswell
+[2025-09-13 21:26:16] Alx: @Testers please try to find more bugs, the new fixes could had came with new bugs aswell but I doubt that, check out everything that was already a bug before and let us know if we missed it, also don't only try to clip through walls and stuff, sure it's a bug but not the main thing, your main goal is to find bugs.
+[2025-09-14 22:35:57] Alx: @Testers Publishing some changes and bug fixes in 5-15 min
+[2025-09-14 22:41:59] Alx: @Testers Published and restarted servers. One of the things that changed is that artifacts are buffed+equipable now, enemies now have recommend rp and their name above aswell, buffed some other stuff aswell, anyway try hard to find new bugs or bugs that may have came with these fixes, if everything is basically fine, release could be either monday/tuesday. ( border chance multi changed from "x" to "%" aswell )
+[2025-09-14 22:43:48] Alx: Oh and battlepass should be fixed aswell, please let me know if battlepass still has problems tho
+[2025-09-14 22:43:56] Alx: Like claiming more levels than you should and stuff
+[2025-09-15 23:41:15] Alx: @Testers Publishing some new changes and a few fixes. ( should be in 2-3 min )
+
+- Added 3 new materials, from first world, 2nd world and 3rd world, it's a new requirement to getting gear, doesn't matter if you already have the gear tho.
+
+- Tags above your head, level, rank ( vip/tester/whaver ) and username, do let me know if they can be scaled better or not.
+
+- New material can be obtained from the npcs ( not castle )
+[2025-09-15 23:44:39] Alx: @Testers published new changes! Restarting servers, please let us know if you find bugs with these changes, just find bugs in general.
+[2025-09-16 18:06:33] Alx: published some unfinished changes, we currently adding gifting which doesn t work rn so don t use it, i really wanted to test smt quick so yeah
+@Testers
+[2025-09-16 18:07:02] Alx: ( there are some finished but some aren t to clarify )
+[2025-09-18 20:25:50] Alx: @Testers Will do 1 last publish tonight, to test the new card rolling and some other features+ for the wipe and the rewards yall will get ( only the testers that do actually deserve it, the active ones. ) If everything is gonna be fine, then next comes the release of the game, not sure if its tonight, might be early tomorrow if not, we'll see. Will ping one more time when its time for the publish
+[2025-09-18 22:58:19] Alx: @Testers Time to wake up, last publish ( hopefully last ) before release is here. Quite a bunch of stuff have been added and changed.
+
+- New card roll animation
+
+- Added so you can craft up to 1000 potions at once if you have the reqs
+
+- Buffed roll speed potions
+
+- Removed the gates and stuff and replaced to portals in the worlds
+
+- Added gamepass, products gifting
+
+- Added walk and idle animations aswell
+
+And more, tbh I forgot but there's more to it, fixed some minor bugs aswell, I want yall to come and test it out, release will be early tomorrow if everything is nice and well, I also need some to afk overnight if possible aswell, using auto roll only ( yes auto roll only, no quick rolling ) .
+[2025-09-19 00:27:56] ! Kingnoob: an example for the "and more" is a small animation for everytime you open the skill tree
+[2025-09-19 12:37:11] Alx: @Testers Everything is basically ready, I'll start wiping all testers in a bit and the ones who were most active and did work will also receive their tester rewards.
+[2025-09-19 18:01:20] Alx: @Testers Rewards will be a gamepass of your choosing, what else would yall like? if yall want a boost in the game I can t really do that besides like a 5k pack or so
+[2025-09-19 18:11:04] Alx: its time for tester rewards, @shin @CM | Cataxlyst @JoyBoy @Martialfigter390 @Tangy @Blessed_Gambler @Ltlggg , @Patrick , @Feuerman  for now yall will get the rewards, whoever else I didn't mention and was active  and actually properly testing, let me know please.
+[2025-09-19 18:11:27] PL | Devs: @Testers
+[2025-09-19 18:26:14] Alx: @Testers ill open game again for testers but do NOT roll and stuff, there is a lil bug thats happening, unless am tripping, has to do with equipping and unequipping a lot
+[2025-09-19 18:40:07] Alx: @Testers alr its time for rewards, if you re not in game ( those who i listed let me know ), also if you were active and not mentioned let me know right now
+[2025-09-19 18:40:09] Alx: and ill check
+[2025-09-19 19:02:32] Alx: @Testers All mentioned testers got their rewards now, except @Patrick as he has all gamepasses, might give him a small in game reward if he wants, anyway as I said if some of u were active and weren t mentioned let me know, being active now doesn't count btw.
+[2025-09-19 19:28:42] Alx: @Testers spam equip and unequip
+[2025-09-19 19:28:44] Alx: Is it fine now?
+[2025-09-19 19:28:53] Alx: I need to know, should be last thing before release.
+[2025-09-19 20:18:24] Lotex: @Testers 
+Also some of the testers from the list mentioned above - will get some more bonuses personally from me in couple days too 
+Such as robux 
+We will have top 5
+
+Good luck
+[2025-09-23 05:33:59] Lotex: @Testers 
+
+Guys please report any kind of bug in the tester-reviews channel 
+
+If needed you can ping any of the Members of Development team 
+- Alx (For Critical And Important Issues )
+- Ryuo (For main core bugs and reports )
+- KingNoob (for quick fixes and additional core reports )
+- aLex (For main questions or any information )
+
+
+Don't use the tester chat for that - cuz then we will have every request messed up
+[2025-09-26 23:48:30] Alx: ```  Update 0.5 log
+
+- Added a new feature, hidden npcs around the map! Find them and defeat them to get new and better rewards!
+
+- 3 New achivements regarding the new hidden npcs!
+
+- 3 new boss cards ( standard pack ones )
+
+-  Team loadouts are now in the game!
+
+- You can now use multiple potions, quick draws etc at once by typing in the texbox, 25 currently being the limit.
+
+- Added new index categories for all card packs!
+
+- 2 new codes in #︱🎁︱𝑐𝑜𝑑𝑒𝑠 channel
+
+- Weekend events added! +10 luck event during the weekend.
+
+- Infinite auto restart setting in settings, unlockable after defeating curse king.
+
+- Multi attack enemies now get stunned properly, that bug should now be fixed.
+
+- Auto reconnect should be better now
+
+- Balanced infinite castle rewards, they give quite a lot less card rolls, it's for the better as battle speed is gonna be introduced in the very next update, update 1!
+
+- Slightly nerfed blood eye artifact
+
+- Fixed index rainbow and divine not being claimable.
+
+- Added a loading screen in the game!
+
+- Slightly decreased the blossom flower cost of weather potions.
+
+- Optimised nearly everything in the game, UI opens and clicks mostly and other stuff aswell
+
+- And more!!```
+[2025-09-26 23:51:49] Alx: https://www.roblox.com/games/76150647486293/RELEASE-Anime-Card-Realms#!/game-instances

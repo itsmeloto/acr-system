@@ -1,0 +1,88 @@
+[2025-09-20 02:02:39] Alx: @Updates Published some fixes
+
+- Index claim sometimes not working even tho u have the cards ( you'd need an extra card for it to work before, it should be fine now ) was only happening to few people
+
+- Fixed not being able to unequip cards on mobile sometimes 
+
+- Fixed inf battle randomly disappearing sometimes ( let me know if it still happens tho, only happened to like 2 ppl )
+
+- Buffed npc boss stats a little as it's a little too easy to finish the game, if it still is another buff could be coming
+
+- And more
+
+Let us know if the bugs mentioned and stuff are fixed to yall or if more bugs arise with it! I won't shutdown servers yet, I will when i wake up or later.
+[2025-09-20 02:02:45] Alx: Changes are only in new servers
+[2025-09-20 15:07:09] Alx: @Updates Restarted servers for another fix, might restart again soon for more fixes
+[2025-09-20 15:08:50] Alx: These changes are now in all servers btw.
+[2025-09-21 13:35:06] Alx: @Updates Restarting servers to fix most infinite castle bugs, do let me know if there still are any, I myself tested and it shouldn't happen anymore but we ll see.
+[2025-09-21 13:49:02] Alx: - Also the cooldown of all npcs is now shorter aswell ( forgot to mention )
+
+- Battlepass last levels are also easier
+
+- Leveling is a decent bit easier now aswell.
+[2025-09-27 00:43:36] Alx: ```Update 0.5 log
+
+- Added a new feature, hidden npcs around the map! Find them and defeat them to get new and better rewards!
+
+- New feature: you can now merge cards into a higher rarity! Located in dungeon world. ( helps with index a lot )
+
+- 3 New achivements regarding the new hidden npcs!
+
+- 3 new boss cards ( standard pack ones )
+
+-  Team loadouts are now in the game!
+
+- You can now use multiple potions, quick draws etc at once by typing in the texbox, 25 currently being the limit.
+
+- Added new index categories for all card packs!
+
+- 2 new codes in 𝑐𝑜𝑑𝑒𝑠 channel
+
+- Weekend events added! +10 luck event during the weekend.
+
+- Infinite auto restart setting in settings, unlockable after defeating curse king.
+
+- Multi attack enemies now get stunned properly, that bug should now be fixed.
+
+- Auto reconnect should be better now
+
+- Balanced infinite castle rewards, they give quite a lot less card rolls, it's for the better as battle speed is gonna be introduced in the very next update, update 1!
+
+- Slightly nerfed blood eye artifact
+
+- Fixed index rainbow and divine not being claimable.
+
+- Slightly decreased the blossom flower cost of weather potions.
+
+- Optimised nearly everything in the game, UI opens and clicks mostly and other stuff aswell
+
+- Put the accurate ability description on a few cards ( some were wrong )
+
+- Changed auto roll unlock from 25 rolls to only 10 rolls
+
+- Made the summary in-between infinite castle floors to see your rewards from 5 seconds to 3 seconds!
+
+- And more!!```
+
+@Updates  The update log.
+[2025-09-27 02:08:59] Alx: - Had to restart servers for an inf bug, should be fixed nowm, lmk if it still happens though was a quick fix as I wanna go sleep. ( fairly bad bug so had to ).
+
+- And another random bug aswell
+
+@Updates
+[2025-09-27 02:09:14] Alx: ( won t restart again most likely so don t worry )
+[2025-09-27 02:09:17] Alx: ill also go sleep
+[2025-09-27 18:37:11] Alx: @Updates 
+
+- Fixed inf castle having some problems, do let me know if it still happens though.
+
+- Buffed madara card a little, changed his ability and it'll also fix the hp randomly going to max after he receives the buff from his old ability.
+
+- Fixed auto roll showing you need 10 rolls to unlock but actually still needed 25 to unlock.
+
+- Fixed merged cards not showing up to craft a gear ( before it would have only if you equipped one in your party and unequipped )
+
+- Fixed some other small bug.
+
+Restarting servers for the changes in 3 mins
+[2025-09-27 18:44:47] Alx: Restarted servers

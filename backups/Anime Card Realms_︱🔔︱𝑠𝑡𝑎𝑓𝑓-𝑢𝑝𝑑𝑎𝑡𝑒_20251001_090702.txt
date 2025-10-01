@@ -1,0 +1,24 @@
+[2025-09-02 10:39:42] PL | Devs: 📢 **Staff Announcement — Striking Staff System**
+
+Hello @Staff Team ,
+
+We are updating how we handle staff actions in **Anime Card Realms**. Please take note of the following changes:
+
+🛡️ **Sapphire Bot – Administration & Staff Strikes**
+> - Sapphire will now be used **mainly for administrative purposes**.
+> - The **warning system in Sapphire** will be repurposed as a **Strike System for Staff**.
+> - Only members with the roles **Ownership Team**, **Lead Team**, and **Management Team** are allowed to use these commands.
+> - These strikes are for **staff accountability**, not user moderation.
+
+⚠️ **User Moderation**
+> - For moderating users (mutes, kicks, bans, warnings), continue to use **Dyno**, as it supports **modstats**.
+> - Do **not** use Sapphire’s strike commands on regular users.
+
+📌 **Summary:**
+> - **Sapphire** = Staff Strikes / Administration
+> - **Dyno** = User Moderation
+
+Please make sure you follow these guidelines to ensure proper usage and avoid any confusion.
+
+Thank you for your cooperation!  
+— *Anime Card Realms Management Team*

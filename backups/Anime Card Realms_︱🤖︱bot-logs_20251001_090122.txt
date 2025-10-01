@@ -1,0 +1,41 @@
+[2025-09-30 12:42:19] ACR | System: 
+[2025-09-30 12:45:01] ACR | System: 
+[2025-09-30 12:45:31] ACR | System: 
+[2025-09-30 12:45:55] ACR | System: 
+[2025-09-30 12:46:50] ACR | System: 
+[2025-09-30 12:49:08] ACR | System: 
+[2025-09-30 12:50:44] ACR | System: 
+[2025-09-30 12:53:02] ACR | System: 
+[2025-09-30 12:53:17] ACR | System: 
+[2025-09-30 12:53:45] ACR | System: 
+[2025-09-30 13:01:45] ACR | System: 
+[2025-09-30 13:16:10] ACR | System: 
+[2025-09-30 13:16:27] ACR | System: 
+[2025-09-30 13:21:38] Lotex: @PL | Devs we can even see the Command being used in the Appeal server in this log as well
+[2025-09-30 13:21:39] Lotex: btw
+[2025-09-30 13:21:42] Lotex: 
+[2025-09-30 13:21:54] PL | Devs: wow
+[2025-09-30 13:22:18] PL | Devs: This is alr fire
+[2025-09-30 13:50:47] ACR | System: 
+[2025-09-30 13:52:04] ACR | System: 
+[2025-09-30 13:53:55] ACR | System: 
+[2025-09-30 13:58:01] ACR | System: 
+[2025-10-01 07:22:55] ACR | System: 
+[2025-10-01 07:23:57] ACR | System: 
+[2025-10-01 07:24:17] ACR | System: 
+[2025-10-01 07:37:50] ACR | System: 
+[2025-10-01 07:38:22] ACR | System: 
+[2025-10-01 07:38:45] ACR | System: 
+[2025-10-01 07:39:46] ACR | System: 
+[2025-10-01 08:09:01] ACR | System: 
+[2025-10-01 08:10:21] ACR | System: 
+[2025-10-01 08:18:53] ACR | System: 
+[2025-10-01 08:24:04] ACR | System: 
+[2025-10-01 08:41:47] ACR | System: 
+[2025-10-01 08:44:51] ACR | System: 
+[2025-10-01 08:46:59] ACR | System: 
+[2025-10-01 08:51:05] ACR | System: 
+[2025-10-01 08:53:38] ACR | System: 
+[2025-10-01 08:56:25] ACR | System: 
+[2025-10-01 08:57:51] ACR | System: 
+[2025-10-01 09:01:15] ACR | System: 
