@@ -1,0 +1,9 @@
+{
+    "build": {
+      "builder": "PYTHON",
+      "pythonVersion": "3.11.10"
+    },
+    "deploy": {
+      "startCommand": "python bot.py"
+    }
+  }
