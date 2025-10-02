@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: /app/.venv/bin/python bot.py
