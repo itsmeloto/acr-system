@@ -1,1 +1,1 @@
-worker: echo "DEBUG: Starting bot..." && python -c "import sys; print('Python version:', sys.version)" && python bot.py
+worker: python bot.py
